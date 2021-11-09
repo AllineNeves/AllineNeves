@@ -1,5 +1,7 @@
 ### Olá Devs, sou a Alline 👋 
-- 💻  Sou Tech  Recruite
+
+##
+- 💻 Sou Tech Recruiter
 - 😄 Estou aqui procurando os melhores profissionais de TI
 - 🏝️ Uma manauara morando na Ilha da Magia 
 - 📚 Aprendendo coisas novas sobre tecnologia.
